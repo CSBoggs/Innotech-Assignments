@@ -1,0 +1,29 @@
+* {
+    background-color: #FFC90E;
+    margin-left: 30px;
+}
+
+.column {
+    width: 21vw;
+    height: 90vh;
+    border: 2px solid black;
+    display: inline-block;
+    margin-top: 30px;
+
+}
+
+#red {
+    background-color: #ED1C24;
+}
+
+#green {
+    background-color: #22B14C;
+}
+
+#blue {
+    background-color: #3F48CC;
+}
+
+#purple {
+    background-color: #A349A4;
+}
